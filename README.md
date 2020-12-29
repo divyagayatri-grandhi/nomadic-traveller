@@ -13,6 +13,8 @@ A Responsive travel website.
 ## Demo
 <a href="https://youtu.be/gB6pvfoBTPY" target="_blank"><img src="https://youtu.be/gB6pvfoBTPY/0.jpg" 
 alt="Demo video" width="240" height="180" border="10" /></a>
+[![Demo video](https://youtu.be/gB6pvfoBTPY/0.jpg)](https://youtu.be/gB6pvfoBTPY)
+
 
 ## Website
 I have deployed the website on heroku.
