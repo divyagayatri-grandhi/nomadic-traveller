@@ -11,7 +11,7 @@ A Responsive travel website.
 6.Making website responsive.
 
 ##Demo
-[![IMAGE ALT TEXT HERE](https://youtu.be/gB6pvfoBTPY)](https://youtu.be/gB6pvfoBTPY)
+<a href= "https://youtu.be/gB6pvfoBTPY"></a>
 
 ##Website
 I have deployed the website on heroku.
